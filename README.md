@@ -1,10 +1,4 @@
-<br clear="both">
-
 <h3 align="right">🐒</h3>
-
-###
-
-<br clear="both">
 
 <h3 align="left">My name is Eren and I'm a Fullstack Developer, from Turkiye</h3>
 
