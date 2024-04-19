@@ -1,4 +1,10 @@
-<h3 align="right">🐒</h3>
+<br clear="both">
+
+<h1 align="center">🐒</h1>
+
+###
+
+<br clear="both">
 
 <h3 align="left">My name is Eren and I'm a Fullstack Developer, from Turkiye</h3>
 
@@ -8,46 +14,46 @@
 
 ###
 
-<h3 align="center">Languages & Tools </h3>
+<h3 align="center">Languages & Tools</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=redux" height="45" alt="redux logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="45" alt="dotnetcore logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="microsoftsqlserver logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=sass" height="45" alt="sass logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=gulp" height="45" alt="gulp logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jquery logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=figma" height="45" alt="figma logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=ps" height="45" alt="adobephotoshop logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=redux" height="50" alt="redux logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="50" alt="microsoftsqlserver logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=gulp" height="50" alt="gulp logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
 </div>
 
 ###
@@ -58,12 +64,12 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erenmacit/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="51" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://medium.com/@ernmctt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="51" height="35" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="60" height="40" alt="medium logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="51" height="35" alt="hackerrank logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="60" height="40" alt="hackerrank logo"  />
 </div>
 
 ###
