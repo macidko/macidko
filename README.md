@@ -1,12 +1,11 @@
-<br clear="both">
-
 <h1 align="center">👋</h1>
 
 ###
 
-<br clear="both">
 
 <h3 align="left">I'm Eren, a full stack developer who strives to improve my skills every day. I've been gaining experience in the software world for 4 years overall, with 1.5 years of professional experience, and I'm eager to learn new things and work on projects every day.</h3>
+
+<br clear="both">
 
 ###
 
