@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="368" src="https://media.discordapp.net/attachments/349661787257307137/1231974720509837422/mhLMtrA_gif_500536.gif?ex=6638e8de&is=662673de&hm=cab87d9feff37dececddddedfaecf251cdbec89aac33d7d4b644e6ebd01423ac&=&width=617&height=662"  />
+<img align="right" height="368" src="[https://media.discordapp.net/attachments/349661787257307137/1231974720509837422/mhLMtrA_gif_500536.gif?ex=6638e8de&is=662673de&hm=cab87d9feff37dececddddedfaecf251cdbec89aac33d7d4b644e6ebd01423ac&=&width=617&height=662](https://i.pinimg.com/564x/55/3b/d0/553bd08467bf37bbbc57aead3b7aced3.jpg)"  />
 
 ###
 
