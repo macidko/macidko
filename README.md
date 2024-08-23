@@ -3,7 +3,7 @@
 ###
 
 
-<h3 align="left">I'm Eren, a full stack developer who strives to improve my skills every day. I've been gaining experience in the software world for 4 years overall, with 1.5 years of professional experience, and I'm eager to learn new things and work on projects every day.</h3>
+<h3 align="left">I'm Eren, a full-stack developer striving to improve my skills every day. I have gained experience in the software world for a total of 4 years, with 1.5 years of professional experience. I am eager to learn new things and work on projects daily.</h3>
 
 <br clear="both">
 
