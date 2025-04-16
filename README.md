@@ -1,9 +1,5 @@
-<h1 align="center">👋</h1>
-
-###
-
-
-<h3 align="left">I'm Eren, a full-stack developer striving to improve my skills every day. I have gained experience in the software world for a total of 4 years, with 1.5 years of professional experience. I am eager to learn new things and work on projects daily.</h3>
+<h3 align="left">Pushing code, pulling lessons.</h3>
+<p>Growing as a full-stack developer by building, breaking, and learning.</p>
 
 <br clear="both">
 
