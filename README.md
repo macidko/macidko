@@ -3,7 +3,7 @@
 
 <br clear="both">
 
-<img align="right" height="368" src="https://i.pinimg.com/736x/6b/2d/81/6b2d81f94ebf98ce2de43bd33f88eab4.jpg" />
+<img align="right" height="368" src="https://i.pinimg.com/736x/6e/8f/ef/6e8fef0a927237a90a3ff835a040ba34.jpg" />
 
 <h3 align="center">⚡ Tech Stack </h3>
 
